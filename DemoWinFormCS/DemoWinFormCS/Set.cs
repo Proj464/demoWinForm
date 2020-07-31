@@ -12,7 +12,7 @@ namespace DemoWinFormCS
     class Set
     {
 
-
+//Connection String 
         SqlConnection cn = new SqlConnection();
     }
 }
