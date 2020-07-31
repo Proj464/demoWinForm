@@ -13,16 +13,7 @@ namespace DemoWinFormCS
     {
 
 // Connection string
-        /*asd
-        asdd
-        asas
-        fdfdf
-        fdf
-        fdf
-        gfghgh
-        
-         */
-
+// ss464 update 333
         SqlConnection cn = new SqlConnection();
     }
 }
